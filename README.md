@@ -44,7 +44,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShifaFzyh&theme=tokyonight&locale=id&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShifaFzyh&theme=tokyonight&locale=id&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaFzyh&layout=compact&theme=tokyonight)](https://github.com/ShifaFzyh/github-readme-stats)
 
