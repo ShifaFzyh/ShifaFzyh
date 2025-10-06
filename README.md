@@ -6,7 +6,7 @@
 <h1 align="center">I’m Shifa Nur Fauziyyah, a student at STT Nurul Fikri majoring in Informatics Engineering.</h1>
  
 - 👀 I’m interested in AI and Cyber Security
-- 🌱 I’m currently learning about computer engineering and trying to understand some programming codes
+- 🌱 I’m currently learning about computer engineering and cyber security
 - 💞️ I’m looking to collaborate
 - 😄 Pronouns: she
 - ⚡ Fun fact: I like Cat and Avocado
