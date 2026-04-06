@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning about computer engineering and cyber security
 - 💞️ I’m looking to collaborate
 - 😄 Pronouns: she
-- ⚡ Fun fact: I like Cat and Avocado
+- ⚡ Fun fact: I love Cat, Avocado, and Sky
 
 ---
 ### :love_letter: My Media Sosial :
@@ -51,8 +51,8 @@
 ---
 
 
-  ![skzmagic](https://github.com/user-attachments/assets/8e0d98a3-6c40-439d-9c62-1b87bc024592)
-<h3 align="center">This is a photo of Stray Kids members. One of my favorite Korean bands.</h3>
+  ![skzmagic](https://blog.delivered.co.kr/wp-content/uploads/2024/08/fetured-2-fixed.jpg)
+<h3 align="center">This is a photo of Stray Kids members. One of my favorite Korean boy bands.</h3>
 
 <!--
 ShifaFzyh/ShifaFzyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
